@@ -1,6 +1,6 @@
 <p align="left">
 	<h2 align="left"> HelpU </h2>
-	<h4 align="left"> Empowering the Ones who NEVER GIVE UP <h4>
+	<h4 align="left"> Empowering the Ones who NEVER GIVE UP!! <h4>
 </p>
 	
 	
